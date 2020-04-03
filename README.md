@@ -1,2 +1,2 @@
-# git_option_example
-this is an example
+# text
+this are all texts
